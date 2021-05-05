@@ -1,35 +1,36 @@
-# Python's library[ Pandas  ]  We cover the following topics :
-Introduction of Python,
+A .  Python's library[ Pandas  ]  We cover the following topics :
 
-Explain in short , What is "IDLE SHELL" &  "JUPITER",
+1. Introduction of Python
 
-Describe libraries in pyhton,
+2. Explain in short , What is "IDLE SHELL" &  "JUPITER"
 
-Explain "Series"  &  "DataFrame",
+3. Describe libraries in pyhton
 
-Import Pandas library,
+4. Explain "Series"  &  "DataFrame"
 
-Loding CSV file, in df and using pd.read_csv format,
+5. Import Pandas library
 
-Create Series in dataframe,
+6. Loding CSV file, in df and using pd.read_csv format
 
-Using statustical parameters like mean,mode,median, min,max,
+7. Create Series in dataframe
 
-Cheking nullvalues in data and using dropna function,
+8. Using statustical parameters like mean,mode,median, min,max
 
-Using Goupby function,
+9. Cheking nullvalues in data and using dropna function
 
-Indexing & Slicing in DataFrame,
+10. Using Goupby function
 
-Using Filter opetion,
+11. Indexing & Slicing in DataFrame
 
-Using merge Function on two DataFrame,
+12. Using Filter opetion
 
-Using Victorized string operations,
+13. Using merge Function on two DataFrame
 
-Creat Time Function,
+14. Using Victorized string operations
 
-Using Matplotlib for bar ,graphs for visulizing data,
+15. Creat Time Function
 
-Chacking Average....
+16. Using Matplotlib for bar ,graphs for visulizing data
+
+17. Chacking Average....
 
